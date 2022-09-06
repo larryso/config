@@ -1,0 +1,5 @@
+data:
+  env: eureka-localhost-online-prod
+  user:
+    username: fengzheng-online
+    password: password-online
